@@ -68,7 +68,7 @@ bool: Boolean values, True or False.
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
    <>Conditional statements evaluate expressions and execute blocks of code based on whether those expressions are true or false.
    eg... score = 80 
-   if score >= 80:
+if score >= 80:
      print("Excellent")
 elif score >= 65:
     print("good")
